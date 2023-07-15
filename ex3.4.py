@@ -3,5 +3,6 @@
 
 salario =1200.00
 ganho= 900.00
-pagar = ganho >  salario  
+sim = salario > ganho 
+não = salario < ganho
 print('vai ter que pagar imposto')
