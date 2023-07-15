@@ -1,6 +1,6 @@
-# calculo de ganho porcentual
+# calculo de aumento salario 
 
-salario = 1500
-aumento= 5
+salario = 750
+aumento= 15
 
 print(salario +(salario * aumento / 100))
