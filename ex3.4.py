@@ -3,6 +3,6 @@
 
 salario =1200.00
 ganho= 900.00
-sim = salario > ganho 
+
 não = salario < ganho
-print('vai ter que pagar imposto')
+print('não vai ter que pagar imposto')
