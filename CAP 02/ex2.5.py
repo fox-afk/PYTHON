@@ -1,12 +1,9 @@
 # calculo de varias variaveis
+# so mudar o operador
 
-a=1#
-b=2
-c=3#
-d=4#
-e=5
-f=6#
+var1= 100
+var2= 150
 
-print (c/f)
-print(d*a)
-print(b//e)
+
+
+print( var1 + var2 )

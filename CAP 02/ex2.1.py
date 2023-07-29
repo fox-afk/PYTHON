@@ -1,6 +1,10 @@
-## PROGRAMA2.1 VARIAVEIS
+# converte as seguintes expressões matematicas para que possam ser calcula
 
-a = 3
-b= 3
+ # calculo = 10 + 20 * 30  # 610
 
-print(a+b)
+
+
+calculo =  4** 4 / 30  # 8.533333333333333
+
+#calculo = (9*9*9*9 + 2) * 6 - 1 # 39377
+print(calculo)

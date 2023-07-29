@@ -1,6 +1,3 @@
-# PROGRAMA CALCULO DE AUMENTO DE SALARIO
-salario = 1500
-aumento= 5
+calculo=  10 % 3 * 10 ** 2 + 1- 10* 4 / 2 # 81.0
 
-print(salario +(salario * aumento / 100))
-     #(1500   +(1500    *  5      / 100))
+print(calculo)
