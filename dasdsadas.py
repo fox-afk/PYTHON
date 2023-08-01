@@ -1,2 +1,2 @@
-x = 5.6
-print(type(x))
+a =set()
+a.add(1)
