@@ -20,5 +20,5 @@ while True:
             print("Total: $", end="")
             prit("{:.2f}".format(total_amount))
     except  EOFError:
-                print()
-                break
+            print()
+            break

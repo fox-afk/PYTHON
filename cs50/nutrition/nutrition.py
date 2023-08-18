@@ -4,7 +4,7 @@ fruits={
     "sweet cherries":100,
 }
 
-fruit_asked=input("item: ")
+fruit_asked=input("Item: ")
 for key in fruits:
-    if key == fruit_asked:
+    if key == fruit_asked.lower():
         print("calories:", fruits[key])
